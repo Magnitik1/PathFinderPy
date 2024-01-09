@@ -3,7 +3,7 @@ import math
 import random
 import matplotlib.pyplot as plt
 
-random.seed(9)
+random.seed(1)
 
 
 infile = open('berlin11_modified.tsp', 'r')
